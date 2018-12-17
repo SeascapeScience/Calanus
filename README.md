@@ -7,5 +7,6 @@ To do
  + First stab: 
    1) build model using Caroline's data, but just SST and bathymetry, 
    2) use bathymetry and seasurface temperature (ERSST goes back to 1950) to project model
-   ERSST: https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.ersst.v5.html
-   
+   https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.ersst.v5.html
+ + Nick will look up available models that give us more (e.g. bottom temperature, chlorophyll)
+ 
