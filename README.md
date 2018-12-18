@@ -12,7 +12,7 @@ To do
  + Nick will look up available models that give us more (e.g. bottom temperature, chlorophyll)
      - https://www.gfdl.noaa.gov/ocean-data-assimilation-model-output/
  + Add other Calanus data
-   What are the units of the dataset we have?
+   - *What are the units of the dataset we have?*
    - [ecomon](https://www.st.nmfs.noaa.gov/copepod/data/us-05101/)
    - [Jeff Runge](https://www.gmri.org/about-us/who-we-are/staff/jeffrey-runge-phd)
 
