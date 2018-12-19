@@ -22,5 +22,12 @@ Albout-Boyer et al. 2016 Calanus GAMM
  + Bounding box
    -  left = -72, right = -42, bottom = 40, top = 70
  + Abundance units
-   - Lehoux data... per m<sup>2</sup>
+   - Albout-Boyer data... per m<sup>2</sup>
+ + `ln(x+1)` for modeling
+   - abundances, `STRAT`, `DEPTH`, `CHL0_100`
+ + `STRAT` "stratification index"
+   > difference in density between 50 and 5 m, a measure of the near-surface density gradient used in AZMP state 
+   >of the ocean reporting and an indices previ- ously used in AZMP framework (e.g. Pepin et al., 2015 and references therein)
+   
+  
  
