@@ -1,7 +1,8 @@
 # Calanus
 Albout-Boyer et al. 2016 Calanus GAMM
 
-To do
+### To do
+
  + Start by focusing on stage 5 Calanus finmarchicus (Cfin_CV in the data spreadsheet)
  + Seasonal time series, ideally back to 1950
  + First stab: 
@@ -16,4 +17,10 @@ To do
    - [ecomon](https://www.st.nmfs.noaa.gov/copepod/data/us-05101/)
    - [Jeff Runge](https://www.gmri.org/about-us/who-we-are/staff/jeffrey-runge-phd)
 
-### Bounding box
+### Specifications
+
+ + Bounding box
+   -  left = -72, right = -42, bottom = 40, top = 70
+ + Abundance units
+   - Lehoux data... per m<sup>2</sup>
+ 
