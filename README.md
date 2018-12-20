@@ -28,6 +28,6 @@ Albout-Boyer et al. 2016 Calanus GAMM
  + `STRAT` "stratification index"
    > difference in density between 50 and 5 m, a measure of the near-surface density gradient used in AZMP state 
    >of the ocean reporting and an indices previ- ously used in AZMP framework (e.g. Pepin et al., 2015 and references therein)
-   
+ + depth classes `<200`, `200-500`, `>500` meters
   
  
